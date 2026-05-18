@@ -37,3 +37,8 @@ Just 3D print the parts in the CAD files, 16 feathers and 1 cork. The feathers c
       </tbody>
     </table>
 </div>
+
+
+Zine:
+
+<img width="275" height="427" alt="image" src="https://github.com/user-attachments/assets/78bbaabc-abc8-48dc-9528-1478e28a087d" />
