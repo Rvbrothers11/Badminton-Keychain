@@ -38,6 +38,8 @@ Just 3D print the parts in the CAD files, 16 feathers and 1 cork. The feathers c
     </table>
 </div>
 
+https://app.slack.com/client/E09V59WQY1E/C083P4FJM46
+
 
 Zine:
 
