@@ -20,25 +20,29 @@ How to use:
 Just 3D print the parts in the CAD files, 16 feathers and 1 cork. The feathers can be inserted into the cork just like lego. and thats doneeee!
 
 <div class="bom-container-strict">
-    <table class="bom-table-strict">
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Information</th>
-          <th>Cost</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>3D Printed Parts</td>
-          <td>3d printing by printing legion</td>
-          <td>$4.00</td>
-        </tr>
-      </tbody>
-    </table>
+  <table class="bom-table-strict">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Information</th>
+        <th>Cost</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>3D Printed Parts</td>
+        <td>3D printing by Printing Legion</td>
+        <td>$4.00</td>
+        <td>
+          <a href="https://app.slack.com/client/E09V59WQY1E/C083P4FJM46" target="_blank">
+            View Link
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
-https://app.slack.com/client/E09V59WQY1E/C083P4FJM46
 
 
 Zine:
