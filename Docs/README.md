@@ -35,8 +35,8 @@ Just 3D print the parts in the CAD files, 16 feathers and 1 cork. The feathers c
         <td>3D printing by Printing Legion</td>
         <td>$4.00</td>
         <td>
-          <a href="https://app.slack.com/client/E09V59WQY1E/C083P4FJM46" target="_blank">
-            View Link
+          <a href="https://robu.in/product/numakers-pla-filament-pitch-black-1-75-mm-1-kg/" target="_blank">
+            https://robu.in/product/numakers-pla-filament-pitch-black-1-75-mm-1-kg/
           </a>
         </td>
       </tr>
